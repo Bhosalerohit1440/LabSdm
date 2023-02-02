@@ -1,0 +1,8 @@
+class Link()
+{
+public static void main(){
+
+System.out.Println("Node");
+}
+}
+
